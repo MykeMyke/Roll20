@@ -1,0 +1,15 @@
+/w @{selected|token_name} &{template:npcaction} {{rname=Vision Options}} {{description=
+[**BLIND**](~ChatMenu|Blind)
+
+[**No Darkvision**](~ChatMenu|DV0)
+
+**Darkvision**
+[30ft](~ChatMenu|DV30) | [60ft](~ChatMenu|DV60) | [90ft](~ChatMenu|DV90) | [120ft](~ChatMenu|DV120) | [300ft](~ChatMenu|DV300)
+
+**Blindsight**
+[10ft](~ChatMenu|BS10) | [30ft](~ChatMenu|BS30) | [60ft](~ChatMenu|BS60)
+
+**Specials**
+[Devil's Sight](~ChatMenu|DevilSight) | [Truesight 60ft](~ChatMenu|TS60) | [Truesight 120ft](~ChatMenu|TS120)
+
+}}

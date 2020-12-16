@@ -1,0 +1,25 @@
+/w @{selected|token_name} &{template:npcaction} {{rname=Lighting Options}} {{description=Always activate the furthest light emitting effect. 
+
+**No Light**
+[⚫ **No Light Emitting** ⚫](~ChatMenu|NoLight)
+
+**Lighting from Items:**
+[**Torch**](~ChatMenu|Torch) | [Lamp](~ChatMenu|Lamp) | [Candle](~ChatMenu|Candle)
+[Hooded Lantern (Shining)](~ChatMenu|HoodedLanternShining)
+[Hooded Lantern (Shuttered)](~ChatMenu|HoodedLanternShuttered)
+[✨ **Magic Items** ✨](~ChatMenu|MagicItems)
+
+**Lighting from Spells:**
+[**Light (Cantrip)**](~ChatMenu|LightCantrip)
+[Daylight](~ChatMenu|Daylight)
+[Faerie Fire (Dex Fail)](~ChatMenu|FaerieFire)
+
+Holy Aura:
+[Caster](~ChatMenu|HolyAuraCaster) | [Affected](~ChatMenu|HolyAuraAffected)
+
+Fire Stuff
+[Produce Flame](~ChatMenu|ProduceFlame)
+[Continual Flame](~ChatMenu|ContinualFlame)
+[Flame Blade](~ChatMenu|FlameBlade) | [Fire Shield](~ChatMenu|FireShield)
+[Investiture of Flame](~ChatMenu|InvestitureOfFlame)
+}}

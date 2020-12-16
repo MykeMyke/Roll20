@@ -1,0 +1,20 @@
+/w @{selected|token_name} &{template:npcaction} {{rname=Magic Item Lighting}} {{description=Always activate the furthest light emitting effect. Distances are shown as (bright/dim).
+
+**Weapons:**
+
+Sun Blade (x/x):
+[10](~ChatMenu|Sunblade10) | [**15**](~ChatMenu|Sunblade15) | [20](~ChatMenu|Sunblade20) | [25](~ChatMenu|Sunblade25) | [30](~ChatMenu|Sunblade30)
+
+[Hellfire Weapon, 0/5](~ChatMenu|Hellfire)
+[Weapon with Beacon, 10/10](~ChatMenu|Beacon)
+[Moon-Touched Weapon, 15/15](~ChatMenu|MoonTouched)
+[Mace of Disruption, 20/20](~ChatMenu|MaceOfDisruption)
+[Flame Tongue, 40/40](~ChatMenu|FlameTongue)
+
+
+**Other:**
+[Helm of Brilliance, 0/30](~ChatMenu|HelmOfBrilliance)
+[Candle of Invocation, 0/30](~ChatMenu|CandleOfInvocation)
+[Lantern of Revealing, 30/30](~ChatMenu|LanternOfRevealing)
+
+}}
